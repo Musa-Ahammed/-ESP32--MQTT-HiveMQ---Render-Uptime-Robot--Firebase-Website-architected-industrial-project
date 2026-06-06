@@ -1,0 +1,1 @@
+# -ESP32--MQTT-HiveMQ---Render-Uptime-Robot--Firebase-Website-architected-industrial-project
