@@ -1,4 +1,5 @@
-# -ESP32--MQTT-HiveMQ---Render-Uptime-Robot--Firebase-Website-architected-industrial-project
+# Real-Time IoT Environmental Monitoring & Automation System
+Stack: ESP32 (C++) · MQTT/HiveMQ Cloud · Render · Node.js · UptimeRobot · Firebase Realtime DB · Chart.js· Git
 
 Designed and deployed an end-to-end, bidirectional IoT telemetry and automation ecosystem for real-time air quality monitoring and automated emergency infrastructure response (simulated for an ATM node environment).
 
