@@ -23,6 +23,7 @@ Frontend: HTML5, CSS3 (Modern Flexbox/Grid), JavaScript (ES6+), Chart.js, Web Au
 DevOps/Monitoring: UptimeRobot, Git/GitHub
 
 
+<img width="1536" height="1024" alt="ESP32--MQTT-HiveMQ---Render-Uptime-Robot--Firebase-Website-architected-industrial-project" src="https://github.com/user-attachments/assets/b598a153-0cb3-4e42-a213-075b358319b3" />
 
 <img width="1546" height="851" alt="website" src="https://github.com/user-attachments/assets/d3847903-e8c9-4eca-9d58-b3ac297853a4" />
 
