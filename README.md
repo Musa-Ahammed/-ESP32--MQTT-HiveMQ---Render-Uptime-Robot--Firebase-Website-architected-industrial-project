@@ -1,5 +1,8 @@
 # -ESP32--MQTT-HiveMQ---Render-Uptime-Robot--Firebase-Website-architected-industrial-project
 
+Designed and deployed an end-to-end, bidirectional IoT telemetry and automation ecosystem for real-time air quality monitoring and automated emergency infrastructure response (simulated for an ATM node environment).
+
+The project features a high-frequency data pipeline that streams sensor data to a cloud database while allowing low-latency remote hardware control via an interactive web dashboard. Implemented modern cloud engineering strategies to maintain 24/7 service uptime on micro-tier infrastructure.
 
 Key Features & Architecture
 Edge Hardware Layer: Programmed an ESP32 microcontroller in C++ to sample environmental gas levels and establish a secure, encrypted TLS 1.2 connection to the cloud broker.
