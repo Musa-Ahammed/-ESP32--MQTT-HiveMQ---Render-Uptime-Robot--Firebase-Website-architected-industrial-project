@@ -1,4 +1,5 @@
 # Real-Time IoT Environmental Monitoring & Automation System
+# https://musa-ahammed.github.io/esp32-dashboard/
 Stack: ESP32 (C++) · MQTT/HiveMQ Cloud · Render · Node.js · UptimeRobot · Firebase Realtime DB · Chart.js· Git
 
 Designed and deployed an end-to-end, bidirectional IoT telemetry and automation ecosystem for real-time air quality monitoring and automated emergency infrastructure response (simulated for an ATM node environment).
